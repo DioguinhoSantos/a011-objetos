@@ -13,3 +13,12 @@ const filme = {
 };
 
 // respostas aqui ⬇️
+console.log(`Primeiro ator/atriz: `, filme.elenco[0]);
+console.log(`Último ator/atriz: `, filme.elenco[3]);
+console.log(`Transmissões hoje: `, filme.transmissoesHoje);
+console.log(`Canal Brasil - horário: `, filme.transmissoesHoje[1]);
+
+// Perguntar sobre o último console.log
+
+
+
